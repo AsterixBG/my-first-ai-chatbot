@@ -91,3 +91,7 @@ AI: The capital of France is Paris.
 
 To exit, simply type `exit`
 
+## Useful Links
+
+- **Qdrant Dashboard** – [Open Qdrant Dashboard](http://localhost:6333/dashboard)
+
